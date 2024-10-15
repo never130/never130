@@ -1,5 +1,8 @@
 # 💫 About Me:
 Hi 👋! My name is Ever and I'm a Web Developer from Argentina ‼<br>
+💻 My passion for technology drives me to dive into both front-end and back-end development, seeking to understand their synergy in creating exceptional digital experiences. <br>
+✨ Committed to continuous learning, I absorb knowledge and sharpen skills to thrive in this dynamic field. <br>
+🌱 Ready for new challenges, my goal is to elevate my expertise to new heights! 🚀
 
 
 ## 🌐 Socials:
