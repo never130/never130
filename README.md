@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Data+Scientist+%26+Analyst;Artificial+Intelligence+Developer;Always+learning+new+things...)](https://git.io/typing-svg)
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a **Web Developer**, **Data Scientist**, and **AI Developer** from Argentina 🇦🇷 with a **Technical Degree in Artificial Intelligence**. My passion lies at the intersection of web technologies, data analysis, and machine learning.
 
@@ -27,33 +27,33 @@ class Ever:
         return "Never stop learning 🚀"
 ```
 
-- 🔭 Currently working on **web applications** and **AI projects**
-- 🌱 Always expanding my knowledge in **Deep Learning** and **MLOps**
-- 💡 I love solving complex problems with elegant solutions
-- 🎯 Goal: Building technology that makes a difference
-- ⚡ Fun fact: I can debug code faster with coffee ☕
+- Currently working on **web applications** and **AI projects**
+- Always expanding my knowledge in **Deep Learning** and **MLOps**
+- I love solving complex problems with elegant solutions
+- Goal: Building technology that makes a difference
+- Fun fact: I can debug code faster with coffee ☕
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 <table>
 <tr>
 <td valign="top" width="33%">
 
-### 💻 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,r,html,css&perline=4" />
 
 </td>
 <td valign="top" width="33%">
 
-### 🌐 Frontend
+### Frontend
 <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,nextjs,vite&perline=3" />
 
 </td>
 <td valign="top" width="33%">
 
-### ⚙️ Backend
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi&perline=3" />
 
 </td>
@@ -61,7 +61,7 @@ class Ever:
 <tr>
 <td valign="top" width="33%">
 
-### 🤖 AI & Data Science
+### AI & Data Science
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4" />
 <br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
@@ -72,7 +72,7 @@ class Ever:
 </td>
 <td valign="top" width="33%">
 
-### 🗄️ Databases
+### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,redis&perline=3" />
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white"/>
@@ -80,7 +80,7 @@ class Ever:
 </td>
 <td valign="top" width="33%">
 
-### 🔧 Tools & DevOps
+### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel,netlify&perline=4" />
 
 </td>
@@ -89,7 +89,7 @@ class Ever:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=never130&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true"/>
@@ -102,7 +102,7 @@ class Ever:
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p>
 <a href="https://linkedin.com/in/never130">
@@ -124,7 +124,7 @@ class Ever:
 
 ---
 
-## 💭 Dev Philosophy
+## Dev Philosophy
 
 ```javascript
 const wisdom = {
